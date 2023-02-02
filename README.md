@@ -29,7 +29,7 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 
 6.	After finishing the sketch use finish sketch option to finalize the sketch.
 
-![image](https://user-images.githubusercontent.com/113594316/198206639-31c4bdb5-b13e-4106-bcf5-125c294aa03e.png)
+
 
 7.	After finishing the sketch switch to drawing mode to plot the sketch in ISO standard.
 
@@ -42,9 +42,7 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
 
 ## OUTPUT
-
-[experiment 1.pdf](https://github.com/AlluguriSrikrishnateja/Ex.No.-1.1---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./files/10565461/experiment.1.pdf)
-
+![experiment 1_page-0001](https://user-images.githubusercontent.com/118343892/216243503-33462279-059c-4bf1-bab5-cb3adf4f3712.jpg)
 
 ## RESULT
 Thus the given sketch is drawn and drafted using fusion 360 tool.
